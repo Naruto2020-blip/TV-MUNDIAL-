@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TV MUNDIAL</string>
+    <string name="search_channels_hint">Buscar canales por nombre o país...</string>
+    <string name="category_all">Todos</string>
+    <string name="category_costa_rica">Costa Rica</string>
+    <string name="category_peru">Perú</string>
+    <string name="error_loading_stream">Señal temporalmente no disponible. Reintentando...</string>
+    <string name="retry_stream_button">Reintentar señal</string>
+    <string name="channel_callsign_label">Canal %s</string>
+    <string name="empty_channels_message">No se encontraron canales con ese criterio.</string>
+    <string name="live_badge">EN VIVO</string>
+</resources>

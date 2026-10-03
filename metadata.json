@@ -1,0 +1,8 @@
+{
+  "name": "TV MUNDIAL",
+  "description": "Televisión en vivo de Costa Rica, Perú y canales internacionales con reproductor rápido y lista organizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
